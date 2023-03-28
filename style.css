@@ -1,0 +1,8 @@
+#userList{
+    height: 300px;
+    overflow-y: scroll;
+}
+
+#userList li{
+    cursor: pointer;
+}
